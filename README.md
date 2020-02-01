@@ -19,6 +19,3 @@ The greatest speed of sound values hit about 1550 m/s usually occuring at great 
 <b>figure 2: Top Speeds of Sound</b><br>
 The speed of sound being a function of temperature would imply that daytime data would vary from night time data. However, the OOI data tested did not reveal trends in the speed of sound profile based on time of day. See figure 3 for the null effect of daytime versus night time. Further analysis ought to be conducted particularly near the surface to find trends which show the day time effect. Theoretically speed of sound ought to increase during daytime with rising temperature consequently increasing the rapid change in speed of sound profile as depth is reached.
 ![](images/fig4.png)
-<p align="center">
-<b>figure 4: No Effect on Speed of Sound daytime versus nighttime</b><br>
-
