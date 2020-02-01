@@ -21,4 +21,11 @@ The speed of sound being a function of temperature would imply that daytime data
 
 ![](images/fig4.png)
 <p align="center">
-<b>figure 4: No Effect on Speed of Sound daytime versus nighttime</b><br>
+<b>figure 3: No Effect on Speed of Sound daytime versus nighttime</b><br>
+  
+Surface water temperatures during winter time are significantly lower than during summer. As a result speed of sound at the surface is much less during the winter versus the summer. Consequently the rapid change in speed of sound as depth is reached becomes much greater in the summer months following the thermocline. See figure 4 for a side by side comparison of the seasonal effect. 
+
+
+![](images/fig5.png)
+<p align="center">
+<b>figure 4: Seasonal Effect on Speed of Sound</b><br>
