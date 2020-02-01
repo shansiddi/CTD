@@ -12,3 +12,8 @@ Plotting number of dives per day for shallow and deep profilers revealed that fe
 ![](images/fig2.png)
 <p align="center">
 <b>figure 1: Comparison Between Deep and Shallow Dives Per Day</b><br>
+  
+The greatest speed of sound values hit about 1550 m/s usually occuring at great depths of the ocean in the Winter time. However in the Summer the effect of temperature is much more noticeable bumping speed of sound up to 1500 m/s. Speed of sound is a function of depth, temperature, and salinity. Empirical relations for the speed of sound in the ocean reveal that temperature has the greatest effect of the value. See figure 2 for the top speeds of sound.
+![](images/fig3.png)
+<p align="center">
+<b>figure 2: Top Speeds of Sound</b><br>
