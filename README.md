@@ -29,3 +29,10 @@ Surface water temperatures during winter time are significantly lower than durin
 ![](images/fig5.png)
 <p align="center">
 <b>figure 4: Seasonal Effect on Speed of Sound</b><br>
+  
+The cabled array further out in the ocean from shore compared to coastal endurance presents a more pronounced thermocline. See Figure 5 for the comparison between the arrays. A more pronounced thermocline is a result of greater surface temperature, it is likely that closer to the shore waves carry heat away from the CTD faster than in the mid ocean in this case. However a general trend can not be drawn from these two data points, the spatial depencdence of the speed of sound profile ought to be studied in greater detail. 
+
+
+![](images/fig6.png)
+<p align="center">
+<b>figure 5: Location Effect on Speed of Sound</b><br>
