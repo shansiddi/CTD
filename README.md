@@ -7,4 +7,4 @@ B ME 450<br />
 <p align="center">
 <b>CTD Project Link: https://github.com/shansiddi/CTD.git</b><br>
   
-	Access CTD project by unzipping CTD.7z. Open main.ipynb to run code which conducts data analysis.
+	Access CTD project by unzipping CTD.7z. Open main.ipynb in Jupyter Notebook to run code which conducts data analysis.
