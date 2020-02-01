@@ -11,4 +11,4 @@ Access CTD project code by unzipping CTD.7z. Open main.ipynb in Jupyter Notebook
 Plotting number of dives per day for shallow and deep profilers revealed that fewer dives are conducted on a given day for deep profilers. Fewer deep dives are advisable to protect equipment from great stresses as well as to keep costs low. CTD data is generally expensive deep dives even more so than shallow ones. See figure 1 for comparison between deep and shallow dives per day.
 ![](images/fig1.png)
 <p align="center">
-<b>*figure 1: Comparison Between Deep and Shallow Dives Per Day*</b><br>
+<b>figure 1: Comparison Between Deep and Shallow Dives Per Day</b><br>
