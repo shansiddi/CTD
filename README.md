@@ -21,3 +21,4 @@ The speed of sound being a function of temperature would imply that daytime data
 ![](images/fig4.png)
 <p align="center">
 <b>figure 4: No Effect on Speed of Sound daytime versus nighttime</b><br>
+
