@@ -6,6 +6,8 @@ B ME 450<br />
 <p align="center">
 <b>CTD Project Link: https://github.com/shansiddi/CTD/blob/master/main.ipynb</b><br>
   
+<b>Background</b><br>
+
 Access CTD project code by clicking link - open main.ipynb in Jupyter Notebook to run code which conducts data analysis. Data for project downloaded from Ocean Observatories Initiative (OOI) [1]. CTD is a conductivity, temperature, and pressure probe which dives into the ocean while taking measurements. OOI is an open source data-set which includes a vast library of CTD data. Data for this project came from the Oregon coast from Coastal Endurance and the Cabled Array. 24 hours worth of data was chosen for download as json files in Winter and Summer for each CTD available on the two observatories. For each profiler the number of dives, speed of sound profile for each dive, as well as average speed of sound profile were computed. 
 
 Speed of sound was calculated with the following emperical relationship.
@@ -13,7 +15,7 @@ Speed of sound was calculated with the following emperical relationship.
 <p align="center">
 <b>figure 0: Speed of sound equation [2]</b><br>
 
-The data was plotted in various combinations to express the trends which answer the questions below. 
+<b>Problems</b><br>
 
 Problem 1: Compare the number of dives per day of the shallow profiler vs deep profiler
 Answer 1: The shallow profiler generally ran 9 dives per day while the deep profiler would run 1 or 2. See Figure 1 for comparison of shallow and deep profiler daily operation.
@@ -55,7 +57,7 @@ Answer 5: Shallow waters were not effected by location. Shallow CTD data shows a
 <p align="center">
 <b>figure 7: Deeper waters able to reach much higher speeds</b><br>
   
-#Conclusion  
+<b>Conclusions</b><br>
   
 References
 [1] NSF Ocean Observatories Initiative Data Portal, http://ooinet.oceanobservatories.org. Downloaded on (2/14/20).
