@@ -61,6 +61,7 @@ Answer 5: Shallow waters were not effected by location. Shallow CTD data shows a
 Speed of sound is ultimately a function of density. However the density of water is a function of many variables. So, speed of sound can change with temperature, salinity, and depth (pressure). The speed of sound varies mainly as a function of temperature, but the other variables do become prominent in certain pictures. For example, in the deep water for problem 5 the difference between the coastal and deep ocean profiles was due to a variation in maximum depth. The speed of sound in the ocean water is important to marine life as sound is their primary mode of communication. In further work audio signals in the ocean will be studied for their origin.
   
 References
+
 [1] NSF Ocean Observatories Initiative Data Portal, http://ooinet.oceanobservatories.org. Downloaded on (2/14/20).
 
 [2] K.V. Mackenzie, "Nine-term equation for sound speed in the oceans," J.Acoust. Soc. Am., vol. 70, no. 3, September 1981.
