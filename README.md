@@ -46,7 +46,7 @@ Answer 4: Hot weather increases surface temps resulting in an increased speed of
 <b>figure 5: No effect of season observable on deep dive</b><br>
   
 Problem 5: Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).
-Answer 5: Shallow waters were not effected by location. Shallow CTD data shows an equal response for speed of sound on the coast and the deep ocean see figure 6 for the lack of an effect of location in shallow water. But the deep CTD data reveals that deep ocean can reach much higher speeds for sound than coastal CTD. Speed of sound is directly proportional to depth so the result is intuitive.
+Answer 5: Shallow waters were not effected by location. Shallow CTD data shows an equal response for speed of sound on the coast and the deep ocean see figure 6 for the lack of an effect of location in shallow water. But the deep CTD data reveals that deep ocean can reach much higher speeds for sound than coastal CTD. Speed of sound is directly proportional to depth so the result is intuitive. See figure 7 for the vast difference between deep water and coastal ocean speed of sound profiles. 
 
 ![](images/fig6.png)
 <p align="center">
@@ -58,6 +58,7 @@ Answer 5: Shallow waters were not effected by location. Shallow CTD data shows a
 <b>figure 7: Deeper waters able to reach much higher speeds</b><br>
   
 <b>Conclusions</b><br>
+Speed of sound is ultimately a function of density. However the density of water is a function of many variables. So, speed of sound can change with temperature, salinity, and depth (pressure). The speed of sound varies mainly as a function of temperature, but the other variables do become prominent in certain pictures. For example, in the deep water for problem 5 the difference between the coastal and deep ocean profiles was due to a variation in maximum depth. The speed of sound in the ocean water is important to marine life as sound is their primary mode of communication. In further work audio signals in the ocean will be studied for their origin.
   
 References
 [1] NSF Ocean Observatories Initiative Data Portal, http://ooinet.oceanobservatories.org. Downloaded on (2/14/20).
