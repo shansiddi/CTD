@@ -37,4 +37,5 @@ Answer 3: Daytime increases the temperature of the surface, in a rough sense the
   
 References
 [1] NSF Ocean Observatories Initiative Data Portal, http://ooinet.oceanobservatories.org. Downloaded on (2/14/20).
+
 [2] K.V. Mackenzie, "Nine-term equation for sound speed in the oceans," J.Acoust. Soc. Am., vol. 70, no. 3, September 1981.
