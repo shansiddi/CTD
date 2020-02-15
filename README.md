@@ -27,13 +27,33 @@ Answer 2: The maximum speed of sound in winter and Summer occured at the deepest
 <p align="center">
 <b>figure 2: Maximum speed of sound Occurs at deepest ocean depths</b><br>
 
-Problem 3: What is the effect on speed of sound of day vs night?
+Problem 3: Compare the ssp profile in day ad night of all profilers, explain what you find (effect of day vs night).
 Answer 3: Daytime increases the temperature of the surface, in a rough sense the ideal gas equation would indicate that density would rise as a result of the increased temperature. Speed of sound does in fact increase during daytime, but this is only visible on the shallow profilers. The shallow profilers sit near the thermocline of the local region and are therefore impacted by surface effects. The deep profilers do not make surface effects evident. See figure 3 for comparison of deep and shallow profilers speed of sound vs time.
 ![](images/fig3.png)
 <p align="center">
 <b>figure 3: Speed of sound vs time, shallow profilers reveal effect of day vs night. Speed of sound increases during daytime somewhat. But the pattern can not be seen on a deep profiler as it is too deep of the thermocline to be in sight. Consequently shallow profiler sees spike at lowest depth during midday while deep profiler is consistent.</b><br>
   
+Problem 4: Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season).
+Answer 4: Hot weather increases surface temps resulting in an increased speed of sound similar to the effect of day versus night. Note the greater thermocline in the summer graph visible in figure 4. The summer surface temperatures are greater resulting not only in an increased speed of sound but also a steeper thermocline. Again as with the day and night effect the deep CTD's did not catch the thermocline, so the effect of Summer vs Winter is dampened by the wall of water above. See figure 5 to see the lack of effect driven by season in the deep CTD data.
+![](images/fig4.png)
+<p align="center">
+<b>figure 4: Speed of sound variation by season - Summer increases speed of sound</b><br>
   
+![](images/fig5.png)
+<p align="center">
+<b>figure 5: No effect of season observable on deep dive</b><br>
+  
+Problem 5: Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location).
+Answer 5: Shallow waters were not effected by location. Shallow CTD data shows an equal response for speed of sound on the coast and the deep ocean see figure 6 for the lack of an effect of location in shallow water. But the deep CTD data reveals that deep ocean can reach much higher speeds for sound than coastal CTD. Speed of sound is directly proportional to depth so the result is intuitive.
+
+![](images/fig6.png)
+<p align="center">
+<b>figure 6: No effect of location observable on shallow</b><br>
+
+
+![](images/fig7.png)
+<p align="center">
+<b>figure 7: Deeper waters able to reach much higher speeds</b><br>
   
 References
 [1] NSF Ocean Observatories Initiative Data Portal, http://ooinet.oceanobservatories.org. Downloaded on (2/14/20).
